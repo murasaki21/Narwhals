@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+* {
+  margin: 5px;
+  padding: 10;
+  }
+
+  #Picture1{
+    width: 25%;
+    }
+
+  #Picture2{
+    width: 35%;
+    }
+
+body{
+  background-color: black;
+  background-image: url('https://media.giphy.com/media/l2JhIFkIowUP6PBBe/giphy.gif');
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  background-color: #ed93d2;
+  color: white;
+  font-family: 'Poiret One', cursive;
+  font-size:2em;
+  text-align: center;
+  margin: 20px 70px;
+  padding: 15px;
+}
+
+.boxes {
+  width: 80%;
+  height: 400px;
+  text-align: center;
+  line-height: normal;
+  font-family: 'Poiret One', cursive;
+  font-size:2em;
+}
+/*narrative text*/
+  #text {
+    background-color: #87a9e0;
+    color: white;
+    width: auto;
+    height: 70%;
+    text-align: center;
+    padding: 10px;
+  }
+
+  #Div2 {
+    background-color: #d57cf2;
+    color: white;
+    width: auto;
+    height: 70%;
+    text-align: center;
+    padding: 10px;
+  }
+
+  #Div3 {
+    background-color: #a1f598;
+    width: auto;
+    height: 70%;
+    text-align: center;
+    padding: 10px;
+  }
