@@ -80,3 +80,10 @@ h1 {
     text-align: center;
     padding: 10px;
   }
+  #Video {
+    background-color: none;
+    width: auto;
+    height: 100%;
+    text-align: center;
+    padding: 10px;
+  }
